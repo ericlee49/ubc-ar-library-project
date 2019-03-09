@@ -1,0 +1,172 @@
+{
+  "images" :
+  [
+    {
+      "image" : "principles_of_learning.jpg",
+      "name" : "principles_of_learning",
+      "uid" : "1"
+    },
+    {
+      "image" : "library_literacy_concept_map.jpg",
+      "name" : "library_literacy_concept_map",
+      "uid" : "2"
+    },
+    {
+      "image" : "makerspace_poster.jpg",
+      "name" : "makerspace_poster",
+      "uid" : "3"
+    }, 
+    {
+      "image" : "ell_poster.jpg",
+      "name" : "ell_poster",
+      "uid" : "4"
+    },
+    {
+      "image" : "a_series_of_unfortunate_events.jpg",
+      "name" : "a_series_of_unfortunate_events",
+      "uid" : "5"
+    },          
+    {
+      "image" : "library_website.jpg",
+      "name" : "library_website",
+      "uid" : "6"
+    },
+    {
+      "image" : "puppet.jpg",
+      "name" : "puppet",
+      "uid" : "7"
+    },    
+    {
+      "image" : "the_breadwinner.jpg",
+      "name" : "the_breadwinner",
+      "uid" : "8"
+    },
+    {
+      "image" : "one_and_only_ivan.jpg",
+      "name" : "one_and_only_ivan",
+      "uid" : "9"
+    },          
+    {
+      "image" : "i_want_my_hat_back.jpg",
+      "name" : "i_want_my_hat_back",
+      "uid" : "11"
+    },
+    {
+      "image" : "goodnight_construction_site.jpg",
+      "name" : "goodnight_construction_site",
+      "uid" : "12"
+    },
+    {
+      "image" : "shi_shi_etko.jpg",
+      "name" : "shi_shi_etko",
+      "uid" : "13"
+    }, 
+    {
+      "image" : "wonder_book.jpg",
+      "name" : "wonder_book",
+      "uid" : "14"
+    },
+    {
+      "image" : "picture_books.jpg",
+      "name" : "picture_books_poster",
+      "uid" : "15"
+    },          
+    {
+      "image" : "french_collection.jpg",
+      "name" : "french_collection_poster",
+      "uid" : "16"
+    },
+    {
+      "image" : "ccbc.jpg",
+      "name" : "ccbc",
+      "uid" : "17"
+    },    
+    {
+      "image" : "fiction.jpg",
+      "name" : "fiction_poster",
+      "uid" : "18"
+    },
+    {
+      "image" : "bienvenue_a_la_monstrerie.jpg",
+      "name" : "bienvenue_a_la_monstrerie",
+      "uid" : "19"
+    },    
+    {
+      "image" : "making_content_comprehensible.jpg",
+      "name" : "making_content_comprehensible",
+      "uid" : "20"
+    },         
+    {
+      "image" : "indigenous_resources_pamphlet.jpg",
+      "name" : "indigenous_resources_pamphlet",
+      "uid" : "21"
+    },
+    {
+      "image" : "subject_area_bookmark.jpg",
+      "name" : "subject_area_bookmark",
+      "uid" : "22"
+    },
+    {
+      "image" : "indigenous_bookmark.jpg",
+      "name" : "indigenous_bookmark",
+      "uid" : "23"
+    },            
+    {
+      "image" : "book_with_no_pictures.jpg",
+      "name" : "book_with_no_pictures",
+      "uid" : "24"
+    },
+    {
+      "image" : "clc_help_info.png",
+      "name" : "clc_help_info",
+      "uid" : "48"
+    },
+    {
+      "image" : "clc_cwsc.png",
+      "name" : "clc_cwsc",
+      "uid" : "49"
+    },    
+    {
+      "image" : "clc_pay_for_print.jpg",
+      "name" : "clc_pay_for_print",
+      "uid" : "50"
+    },         
+    {
+      "image" : "clc_entrance_hours.png",
+      "name" : "clc_entrance_hours",
+      "uid" : "51"
+    },
+    {
+      "image" : "clc_desk_closed.png",
+      "name" : "clc_desk_closed",
+      "uid" : "52"
+    },
+    {
+      "image" : "clc_equipment_loan_list.png",
+      "name" : "clc_equipment_loan_list",
+      "uid" : "53"
+    },            
+   
+    {
+      "image" : "clc_back_in_5.png",
+      "name" : "clc_back_in_5",
+      "uid" : "54"
+    },
+    {
+      "image" : "whats_your_wonder_question_mark.jpg",
+      "name" : "whats_your_wonder_question_mark",
+      "uid" : "55"
+    },
+    {
+      "image" : "seed_library.jpg",
+      "name" : "seed_library",
+      "uid" : "56"
+    },
+    {
+      "image" : "ubc_ar_app_explore.png",
+      "name" : "ubc_ar_explore",
+      "uid" : "57"
+    }   
+  ]
+}
+
